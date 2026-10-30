@@ -15,7 +15,8 @@ https://github.com/JJAMES02814199808/mlb-operations-pipeline/blob/main/hr_wins_r
 *Demonstrating a strong positive correlation between home run production and total season wins, while highlighting high-power outliers.*
 
 ### Figure 2: The Outlier Factor (Run Differential vs. Wins)
-<img src="run_diff_vs_wins.png" alt="Run Differential vs Wins Scatterplot" width="600">
+hr_wins_regression_outliers.png
+
 *Exposing how pitching and run prevention separates the high-HR teams that made the playoffs from the ones that fell short.*
 
 
