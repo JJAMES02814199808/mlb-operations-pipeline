@@ -10,7 +10,7 @@ This project builds an end-to-end data engineering and predictive modeling pipel
 
 ## 📈 Visualizing the Correlation (Charts)
 ### Figure 1: Offensive Power (Home Runs) vs. Team Wins
-https://github.com/JJAMES02814199808/mlb-operations-pipeline/blob/main/hr_wins_regression.png
+[https://github.com/JJAMES02814199808/mlb-operations-pipeline/blob/main/hr_wins_regression.png](https://github.com/JJAMES02814199808/mlb-operations-pipeline/blob/be228020f1a46812df3f06837a7afeca7e2a538d/hr_wins_regression.png)
 
 *Demonstrating a strong positive correlation between home run production and total season wins, while highlighting high-power outliers.*
 
